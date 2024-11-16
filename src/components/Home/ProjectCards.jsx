@@ -75,7 +75,7 @@ const ProjectCards = () => {
       description:
         "A comprehensive system for tracking user behavior and interaction across the app, using SQL and Power BI.",
       repoLink: "https://github.com/gangaprasadarge/DataAnalyst_User_Behavior_Tracking_System",
-      liveLink: "https://app.powerbi.com/links/9adWUPoFe7?ctid=e14e73eb-5251-4388-8d67-8f9f2e2d5a46&pbi_source=linkShare"
+      liveLink: "https://app.powerbi.com/links/9adWUPoFe7?ctid=e14e73eb-5251-4388-8d67-8f9f2e2d5a46&pbi_source=linkShare&bookmarkGuid=184add9d-268d-41e9-ad58-52e7bf3fe4de"
     },
     
    
