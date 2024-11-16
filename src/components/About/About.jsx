@@ -70,12 +70,13 @@ const About = () => {
             className="md:flex-1 sticky top-0 h-96 md:h-auto mt-10 lg:w-4/12"
           >
             <ScrollParallax>
-              <img
-                src="/me.jpeg" // Ensure this path is correct
-                className="rounded-lg rotate-1 hover:-rotate-1 transition-all duration-500 cursor-grab object-cover
-                  grayscale hover:grayscale-1 opacity-85 h-full w-full md:h-auto md:w-auto"
-                alt="Profile"
-              />
+            <img
+  src="/me.jpeg"
+  className="rounded-lg rotate-1 hover:-rotate-1 transition-all duration-500 cursor-grab object-cover
+    grayscale hover:grayscale-0 opacity-85 h-full w-full md:h-auto md:w-auto"
+  alt="Profile"
+/>
+
               <div>
                 <Cards />
               </div>
