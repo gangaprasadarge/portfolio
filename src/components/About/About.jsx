@@ -73,7 +73,7 @@ const About = () => {
               <img
                 src="/me.jpeg" // Ensure this path is correct
                 className="rounded-lg rotate-1 hover:-rotate-1 transition-all duration-500 cursor-grab object-cover
-                  grayscale hover:grayscale-1 opacity-85 h-full w-full md:h-96 md:w-auto"
+                  grayscale hover:grayscale-1 opacity-85 h-full w-full md:h-auto md:w-auto"
                 alt="Profile"
               />
               <div>
