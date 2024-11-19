@@ -9,7 +9,7 @@ const Nav = () => {
   const navigation = [
     { title: "About", path: "/about" },
     { title: "Projects", path: "/projects" },
-    { title: "Articles", path: "/articles" },
+    //{ title: "Articles", path: "/articles" },
     { title: "Cv Download", path: cv }, // Update the path to the CV
   ];
 
