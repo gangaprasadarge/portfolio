@@ -70,7 +70,7 @@ const ProjectCards = () => {
       liveLink: "https://app.powerbi.com/links/9adWUPoFe7?ctid=e14e73eb-5251-4388-8d67-8f9f2e2d5a46&pbi_source=linkShare"
     },
     {
-      image: "https://github.com/gangaprasadarge/DataAnalyst_User_Behavior_Tracking_System/raw/main/userBehaviorTracking.png",
+      image: "https://ik.imagekit.io/bd4oarcuc/Screenshot%202024-11-19%20202945.png?updatedAt=1732029008702",
       title: "User Behavior Tracking System",
       description:
         "A comprehensive system for tracking user behavior and interaction across the app, using SQL and Power BI.",
