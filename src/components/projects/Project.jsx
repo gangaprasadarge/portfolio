@@ -23,7 +23,7 @@ const projects = [
     live: "https://github.com/gangaprasadarge/DataAnalyst_User_Behavior_Tracking_System",
   },
   {
-    image: "https://your-project-image-link.com",
+    image: "https://ik.imagekit.io/bd4oarcuc/Screenshot%202024-11-19%20210104.png?updatedAt=1732030312872",
     title: "Zomato Landing Page",
     description:
       "A responsive landing page for a restaurant platform using HTML, CSS, and JavaScript.",
