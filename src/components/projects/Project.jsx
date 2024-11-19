@@ -5,7 +5,7 @@ import BackgroundGrid from "../utils/BgGrid";
 
 const projects = [
   {
-    image: "https://your-project-image-link.com",
+    image: "https://ik.imagekit.io/bd4oarcuc/Screenshot%202024-11-19%20203014.png?updatedAt=1732029878738",
     title: "Data Analyst Project - PBI & SQL Sales Analysis",
     description:
       "A data analysis project using Power BI and SQL to analyze sales data and generate insights for business decision-making.",
@@ -14,7 +14,7 @@ const projects = [
     live: "https://github.com/gangaprasadarge/DataAnalystProject_PBI_SQL_SalesAnalysis",
   },
   {
-    image: "https://your-project-image-link.com",
+    image: "https://ik.imagekit.io/bd4oarcuc/Screenshot%202024-11-19%20202945.png?updatedAt=1732029008702",
     title: "User Behavior Tracking System",
     description:
       "A system designed to track and analyze user behaviors within an app to improve engagement and retention.",
@@ -32,7 +32,7 @@ const projects = [
     live: "https://github.com/gangaprasadarge/zomato-landing-page",
   },
   {
-    image: "https://your-project-image-link.com",
+    image: "https://ik.imagekit.io/bd4oarcuc/Screenshot%202024-11-19%20203927.png?updatedAt=1732029878951",
     title: "IPL Data Analysis",
     description:
       "Analysis of Indian Premier League data to uncover trends, player statistics, and team performance.",

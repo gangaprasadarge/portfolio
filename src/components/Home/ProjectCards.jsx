@@ -62,7 +62,7 @@ const ProjectCard = ({ image, title, description, repoLink, liveLink }) => {
 const ProjectCards = () => {
   const projects = [
     {
-      image: "https://github.com/gangaprasadarge/DataAnalystProject_PBI_SQL_SalesAnalysis/raw/main/salesAnalysis.png",
+      image: "https://ik.imagekit.io/bd4oarcuc/Screenshot%202024-11-19%20203014.png?updatedAt=1732029878738",
       title: "Sales Analysis Dashboard",
       description:
         "An interactive Power BI dashboard for visualizing sales data with detailed insights and KPIs.",
